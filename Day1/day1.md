@@ -6,6 +6,7 @@
 * Data Structure = It means, how to store & organize data so that we can use it efficiently.
 * Algorithm = It means, step by step method used to solve a problem.
 
+```js
 DSA
 │
 ├── Data Structures
@@ -34,7 +35,7 @@ DSA
 * Time complexity is not the actual time.
 
 * It means how the running time of an algorithm grows when the input size increases.
-
+```
 
 #### 3. Space Complexity
 
@@ -42,6 +43,8 @@ DSA
 
 * It tells us how the memory usage grows when the input size increases.
 
+```js
 Time Complexity → How much work/time?
 
 Space Complexity → How much memory? 
+```
