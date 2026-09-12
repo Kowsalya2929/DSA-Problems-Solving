@@ -28,14 +28,14 @@ DSA
     ├── Greedy
     ├── Backtracking
     └── Dynamic Programming
-
+```
 
 #### 2. Time Complexity
 
 * Time complexity is not the actual time.
 
 * It means how the running time of an algorithm grows when the input size increases.
-```
+
 
 #### 3. Space Complexity
 
