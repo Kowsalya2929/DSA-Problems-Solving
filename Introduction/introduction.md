@@ -1,5 +1,3 @@
-## Day 1 
-
 #### What is DSA ?
 
 * DSA = Data Structures and Algorithms.
