@@ -29,22 +29,3 @@ DSA
     ├── Backtracking
     └── Dynamic Programming
 ```
-
-#### 2. Time Complexity
-
-* Time complexity is not the actual time.
-
-* It means how the running time of an algorithm grows when the input size increases.
-
-
-#### 3. Space Complexity
-
-* Space complexity means how much memory an algorithm uses while running.
-
-* It tells us how the memory usage grows when the input size increases.
-
-```js
-Time Complexity → How much work/time?
-
-Space Complexity → How much memory? 
-```
