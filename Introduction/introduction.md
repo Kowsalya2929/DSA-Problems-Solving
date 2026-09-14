@@ -1,6 +1,6 @@
 ## Day 1 
 
-#### 1. What is DSA ?
+#### What is DSA ?
 
 * DSA = Data Structures and Algorithms.
 * Data Structure = It means, how to store & organize data so that we can use it efficiently.
